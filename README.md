@@ -1,8 +1,8 @@
 # OrthoNow — Namoza Developer Assignment Submission
 
 **Role:** Developer - Position 1 (Client Web + Martech)
-**Submitted by:** Khalid Anwar
-**Email submission:** `naman@namoza.com` | Subject: `Developer Assignment - Khalid Anwar`
+**Submitted by:** Mantasha Choudhary
+**Email submission:** `naman@namoza.com` | Subject: `Developer Assignment - Mantasha Choudhary`
 
 ---
 
